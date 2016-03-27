@@ -46,6 +46,57 @@ var app = {
 //return this;},
 
 
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+//ref: function(){
+//window.open('http://apache.org', '_blank', 'location=no');
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
+//this.show();
+//return this;},
+
+
+
     // Update DOM on a Received Event
     receivedEvent: function(id) {
         var parentElement = document.getElementById(id);
