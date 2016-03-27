@@ -38,7 +38,8 @@
                 <p class="event received">Device is Ready</p>
             </div>
 <div id="viewsites" class="viewsites">
-    <iframe scrolling="no" id="viewsite_iframe" sandbox="allow-scripts allow-popups allow-forms" src="http://www.rbc.ru" class="clsIframe"></iframe>
+
+    <iframe scrolling="yes" id="viewsite_iframe" sandbox="allow-scripts allow-popups allow-forms" src="http://www.apache.org" class="clsIframe"></iframe>
 </div>
         </div>
         <script type="text/javascript" src="cordova.js"></script>
