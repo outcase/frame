@@ -20,7 +20,7 @@ var app = {
     // Application Constructor
     initialize: function() {
         this.bindEvents();
-	this.ref();
+//	this.ref();
     },
     // Bind Event Listeners
     //
@@ -38,12 +38,12 @@ var app = {
         app.receivedEvent('deviceready');
     },
 
-ref: function(){
+//ref: function(){
 //window.open('http://apache.org', '_blank', 'location=no');
 //addEventListener('loadstart', function() { alert(event.url); });
 //alert(this);
 //this.show();
-return this;},
+//return this;},
 
 
     // Update DOM on a Received Event
