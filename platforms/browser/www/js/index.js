@@ -40,8 +40,8 @@ var app = {
 
 ref: function(){
 window.open('http://apache.org', '_blank', 'location=no');
-addEventListener('loadstart', function() { alert(event.url); });
-alert(this);
+//addEventListener('loadstart', function() { alert(event.url); });
+//alert(this);
 this.show();
 return this;},
 
